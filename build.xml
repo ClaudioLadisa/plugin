@@ -4,7 +4,7 @@
 	version="1.[[revision]]_[[date]]" 
 	shortdescription="AGLab Plug In" 
 	description="Set of preset to be used to map AGLab Stuff">
-<group name="AGLAB" icon="presets/landmark/trees.svg">
+<group name="AGLAB" icon="https://github.com/ClaudioLadisa/plugin/blob/main/Apache_Config.svg">
 
 	<item name="CARLO" type="closedway, relation" icon="presets/landuse/scrub.svg">
 		<key key="natural" value="scrub" />
