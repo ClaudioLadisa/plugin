@@ -1,4 +1,4 @@
-<presets xmlns="http://josm.openstreetmap.de/tagging-preset-1.0" author="Jeff Haack" version="0.6" shortdescription="Open Cities Dhaka" description="For mapping in old Dhaka as part of the Open Cities Dhaka project. http://opencitiesproject.com/cities/dhaka">
+<presets xmlns="http://josm.openstreetmap.de/tagging-preset-1.0" author="Claudio Ladisa" version="1.0" shortdescription="Solar DB" description="For mapping PV and create Solar DB in Italy">
 <group name="MappersPoliba">
 <item name="Pv" type="closedway">
 <label text="Pv Info"/>
